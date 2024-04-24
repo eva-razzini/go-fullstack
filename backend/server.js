@@ -1,5 +1,4 @@
 const http = require('http');
-<<<<<<< HEAD
 const app = require('./app');
 
 const normalizePort = val => {
@@ -46,11 +45,3 @@ server.on('listening', () => {
 });
 
 server.listen(port);
-=======
-
-const server = http.createServer((req, res) => {
-    res.end('Voilà la réponse du serveur !');
-});
-
-server.listen(process.env.PORT || 4200);
->>>>>>> 7c1da0419d9d2182a0caef4897e0ce20a334f6d2
