@@ -7,12 +7,8 @@
   },
   "author": "",
   "license": "ISC",
-<<<<<<< HEAD
   "description": "",
   "dependencies": {
     "express": "^4.19.2"
   }
-=======
-  "description": ""
->>>>>>> 7c1da0419d9d2182a0caef4897e0ce20a334f6d2
 }
